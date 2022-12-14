@@ -1,0 +1,17 @@
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.exe
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.deps.json
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.runtimeconfig.json
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.runtimeconfig.dev.json
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.dll
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneConsole.pdb
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.csproj.AssemblyReference.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.AssemblyInfoInputs.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.AssemblyInfo.cs
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.csproj.CoreCompileInputs.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.dll
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.pdb
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.genruntimeconfig.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneLib.dll
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\bin\Debug\netcoreapp3.1\PlaneLib.pdb
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneConsole\obj\Debug\netcoreapp3.1\PlaneConsole.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\bin\Debug\netcoreapp3.1\PlaneLib.deps.json
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\bin\Debug\netcoreapp3.1\PlaneLib.dll
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\bin\Debug\netcoreapp3.1\PlaneLib.pdb
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.csproj.AssemblyReference.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.AssemblyInfoInputs.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.AssemblyInfo.cs
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.csproj.CoreCompileInputs.cache
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.dll
+C:\Users\Андрій Козловський\source\repos\PlaneLib\PlaneLib\obj\Debug\netcoreapp3.1\PlaneLib.pdb

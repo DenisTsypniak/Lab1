@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PlaneConsole/1.0.0": {
+        "dependencies": {
+          "PlaneLib": "1.0.0"
+        },
+        "runtime": {
+          "PlaneConsole.dll": {}
+        }
+      },
+      "PlaneLib/1.0.0": {
+        "runtime": {
+          "PlaneLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlaneConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlaneLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
